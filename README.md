@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Radalium/Radalium/main/assets/banner.png" alt="Bannière Radalium" />
-</p>
-
 <h1 align="center">Salut 👋, moi c’est Raphaël</h1>
 <h3 align="center">Développeur C/C++ passionné — bientôt sur Unreal & Unity</h3>
 
