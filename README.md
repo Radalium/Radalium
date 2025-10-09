@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c’est Raphaël</h1>
-<h3 align="center">Développeur C/C++ passionné — bientôt sur Unreal & Unity</h3>
+<h3 align="center">Développeur C/C++ passionné avec moteur Unreal & Unity</h3>
 
 ---
 
